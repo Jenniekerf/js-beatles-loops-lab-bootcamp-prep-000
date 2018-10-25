@@ -19,11 +19,11 @@ i++
 
 function iLoveTheBeatles(n) {
   let emptyA = []
-  let i = 0
+  n++
   do {
     emptyA.push("I love the Beatles!");
   }
-  while (i < 15)
+  while (n < 15)
 }
 
 
