@@ -23,7 +23,7 @@ function iLoveTheBeatles(n) {
   do {
     emptyA.push("I love the Beatles!");
   }
-  while ()
+  while (i < 15)
 }
 
 
