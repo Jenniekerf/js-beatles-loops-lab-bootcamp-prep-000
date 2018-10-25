@@ -18,6 +18,8 @@ i++
 }
 
 function iLoveTheBeatles(n) {
+  let emptyA = []
+  do {
   
 }
 
