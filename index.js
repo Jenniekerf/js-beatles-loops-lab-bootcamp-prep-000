@@ -19,6 +19,7 @@ i++
 
 function iLoveTheBeatles(n) {
   let emptyA = []
+  let i = 0
   do {
     emptyA.push("I love the Beatles!");
   }
