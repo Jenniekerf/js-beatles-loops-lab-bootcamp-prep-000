@@ -11,8 +11,13 @@ function johnLennonFacts(facts) {
 var i = 0
 var newV = []
 while (i < facts.length) {
-newV.push(facts[i] + "!!!")  
+newV.push(`${facts[i]}!!!`)
+i++
 }
  return newV 
 }
 
+
+  
+    
+    
